@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: de.bwaldvogel:mongo-java-server:1.37.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Environments/gradle-6.7.1/caches/modules-2/files-2.1/de.bwaldvogel/mongo-java-server/1.37.0/a666a616af081c13303e1d29bf684c274e48dfb2/mongo-java-server-1.37.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Environments/gradle-6.7.1/caches/modules-2/files-2.1/de.bwaldvogel/mongo-java-server/1.37.0/bc5dd7190f3596b918e2beb406784fe1942d98b5/mongo-java-server-1.37.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

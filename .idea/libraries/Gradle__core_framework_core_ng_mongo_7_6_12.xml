@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: core.framework:core-ng-mongo:7.6.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Environments/gradle-6.7.1/caches/modules-2/files-2.1/core.framework/core-ng-mongo/7.6.12/a55137ce5ab4e4b7c19eb2a19dcfb503e1db4f3b/core-ng-mongo-7.6.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Environments/gradle-6.7.1/caches/modules-2/files-2.1/core.framework/core-ng-mongo/7.6.12/ddb74602593dbce112c0078fa5fd8e1c528e1fdf/core-ng-mongo-7.6.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
